@@ -8,4 +8,8 @@ We are provided with a large number of Wikipedia comments which have been labele
 * threat
 * insult
 * identity_hate
+
+
 We must create a model which predicts a probability of each type of toxicity for each comment.
+
+
